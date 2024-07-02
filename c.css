@@ -1,0 +1,11 @@
+#p{
+    color: brown;
+    font-family: tahoma;
+    font-size: medium;
+    font-style: normal;
+}
+#a{
+    border: 3px solid black;
+    box-shadow: 10px 10px 5px 8px;
+    margin: 30px 50px;
+}
